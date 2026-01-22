@@ -1,0 +1,4 @@
+// File Output of struct_ABC_Corp.c
+248732|Louie|There Doon Lang|IT|Programmer|1795
+349832|Andrei|Dito This That|Education|Tutor|2020
+293248|Ayesha|Malayo Far Far|Health|Doctor|2010
